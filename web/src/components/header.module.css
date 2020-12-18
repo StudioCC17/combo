@@ -33,9 +33,9 @@ body {
   font-size: calc(20 / var(--base-unit) * 1rem);
   -webkit-font-smoothing: antialiased;
   font-style: italic;
-  position: fixed;
-  top: 5%;
-  left: 4%;
+      position: sticky;
+    margin-top: 6%;
+    margin-left: 4%;
   float: left;
   margin: 0;
   @nest & a {
