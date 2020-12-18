@@ -1,48 +1,16 @@
 import React from 'react'
-import { graphql } from 'gatsby'
 import Container from '../components/container'
-import GraphQLErrorList from '../components/graphql-error-list'
-import SEO from '../components/seo'
 import Layout from '../containers/layout'
-import { mapEdgesToNodes, filterOutDocsWithoutSlugs } from '../lib/helpers'
-
-export const query = graphql`
-  query InfoPageQuery {
-    page: sanityPage(_id: { regex: "/(drafts.|)info/" }) {
-      id
-      title
-    }
-  }
-`
 
 const InfoPage = props => {
-  const { data, errors } = props
-
-  if (errors) {
-    return (
-      <Layout>
-        <GraphQLErrorList errors={errors} />
-      </Layout>
-    )
-  }
-
-  const page = data && data.page
-  const personNodes =
-    data && data.people && mapEdgesToNodes(data.people).filter(filterOutDocsWithoutSlugs)
-
-  if (!page) {
-    throw new Error(
-      'Missing "Info" page data. Open the studio at http://localhost:3333 and add "Info" page data and restart the development server.'
-    )
-  }
-
   return (
     <Layout>
-      <SEO title={page.title} />
       <Container>
-        <p className="about-quote"
+        <p
           style={{
             width: '50%',
+            background: 'black',
+            zIndex: '999999',
             marginTop: '100px'
           }}
         >
