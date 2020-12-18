@@ -65,6 +65,11 @@ body {
 position: fixed;
     top: 0;
     right: 0;
+  
+  
+  @media (--media-min-small) {
+    display: none;
+  }
 }
 
 .nav {
