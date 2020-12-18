@@ -44,7 +44,6 @@ function Book(props) {
             <h1 className={styles.title}>{description} </h1>
           </div>
         </div>
-        <h1 className="prices">1 of 3</h1>
       </Container>
     </article>
   )
