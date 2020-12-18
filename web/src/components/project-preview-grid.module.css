@@ -3,7 +3,7 @@
 
 .root {
   margin: 2rem 0 4rem;
-  padding-top: 75px;
+  padding-top: 130px;
 }
 
 .headline {
@@ -31,7 +31,8 @@
   grid-template-columns: 1fr;
   grid-column-gap: 3rem;
   grid-row-gap: 2.7rem;
-  animation: fade 0.2s ease-in;
+ -webkit-animation: fade 0.5s ease-in;
+  animation: fade 0.5s ease-in;
 
   @media (--media-min-small) {
     grid-template-columns: 1fr 1fr;
