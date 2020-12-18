@@ -5,7 +5,7 @@
   0% {
     opacity: 0;
   }
-  66% {
+  75% {
     opacity: 0;
   }
   100% {
@@ -21,8 +21,8 @@
   flex-direction: column;
   height: 100vh;
   width: 100%;
- animation: fade 0.5s ease-in;
-  webkit-animation: fade 0.5s ease-in;
+ animation: fade 0.7s ease-in;
+  webkit-animation: fade 0.7s ease-in;
 }
 
 @keyframes fade {
