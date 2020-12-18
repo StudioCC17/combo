@@ -163,16 +163,16 @@ body > div > div {
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
   .about-quote {
     font-size: 3.75vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .about-blurb {
     font-size: 3vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .header-module--branding--3jgsl a {
-    font-size: 5vw !important;
+    font-size: 6vw !important;
     margin-left: 10px;
   }
 
@@ -263,16 +263,16 @@ body > div > div {
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
   .about-quote {
     font-size: 3.75vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .about-blurb {
     font-size: 3vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .header-module--branding--3jgsl a {
-    font-size: 5vw !important;
+    font-size: 6vw !important;
     margin-left: 10px;
   }
 
@@ -363,16 +363,16 @@ body > div > div {
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
   .about-quote {
     font-size: 3.75vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .about-blurb {
     font-size: 3vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .header-module--branding--3jgsl a {
-    font-size: 5vw !important;
+    font-size: 6vw !important;
     margin-left: 10px;
   }
 
@@ -463,16 +463,16 @@ body > div > div {
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
   .about-quote {
     font-size: 3.75vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .about-blurb {
     font-size: 3vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .header-module--branding--3jgsl a {
-    font-size: 5vw !important;
+    font-size: 6vw !important;
     margin-left: 10px;
   }
 
@@ -563,16 +563,16 @@ body > div > div {
 @media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
   .about-quote {
     font-size: 3.75vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .about-blurb {
     font-size: 3vw !important;
-    width: 80%;
+    width: 80%!important;
   }
 
   .header-module--branding--3jgsl a {
-    font-size: 5vw !important;
+    font-size: 6vw !important;
     margin-left: 10px;
   }
 
