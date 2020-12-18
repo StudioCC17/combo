@@ -26,6 +26,8 @@ html {
   }
 }
 
+.info-blur{animation: fade 0.5s ease-in;}
+
 h1.prices {
   position: absolute;
   right: 40px;
@@ -47,14 +49,14 @@ h1.book-title {
   font-weight: normal !important;
   width: 50%;
 
-  animation: fade 0.2s ease-in;
+  animation: fade 0.5s ease-in;
 }
 
 .about-blurb {
   font-size: 1.25vw !important;
   font-weight: normal !important;
   width: 40%;
-  animation: fade 0.2s ease-in;
+  animation: fade 0.5s ease-in;
 }
 
 .splash-text {
