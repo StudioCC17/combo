@@ -67,16 +67,6 @@ position: fixed;
     right: 0;
 }
 
-  & svg {
-    display: block;
-    fill: inherit;
-  }
-
-  @media (--media-min-small) {
-    display: none;
-  }
-}
-
 .nav {
   display: none;
   position: fixed;
