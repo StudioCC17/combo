@@ -5,6 +5,7 @@ html {
   font-family: var(--font-family-sans);
   font-size: 1.75vw !important;
   line-height: var(--font-base-line-height);
+  background: black
 }
 
 @keyframes fade {
