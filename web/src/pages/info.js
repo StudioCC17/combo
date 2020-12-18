@@ -40,7 +40,7 @@ const InfoPage = props => {
     <Layout>
       <SEO title={page.title} />
       <Container>
-        <p
+        <p className="info-blur"
           style={{
             width: '50%',
             background: 'black',
