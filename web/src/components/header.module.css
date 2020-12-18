@@ -148,20 +148,3 @@ button.header-module--toggleNavButton--1xvQP {
     top: 15px;
 }
 
-
-/* Custom, iPhone Retina */ 
-    @media only screen and (min-width : 320px) {
-      .wrapper {background: none!important}
-    }
-
-    /* Extra Small Devices, Phones */ 
-    @media only screen and (min-width : 480px) {
-.wrapper {background: none!important}
-    }
-
-    /* Small Devices, Tablets */
-    @media only screen and (min-width : 768px) {
-.wrapper {background: none!important}
-    }
-
-
