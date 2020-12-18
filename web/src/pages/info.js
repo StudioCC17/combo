@@ -40,6 +40,38 @@ const InfoPage = props => {
     <Layout>
       <SEO title={page.title} />
       <Container>
+        <p
+          style={{
+            width: '50%',
+            background: 'black',
+            zIndex: '999999',
+            marginTop: '100px'
+          }}
+        >
+          <br></br>
+          <br></br>Christopher Gee is a British artist born in Portsmouth, England in 1987. He lives
+          and works on the Thames Estuary, Essex. His small scale works on paper explore stillness
+          and isolated scenes. His paintings are informed by historic houses and landmarks, often
+          forgotten or overlooked sites of familiarity and intrigue. Walking and collecting are key
+          to his practice.
+          <br></br>
+          <br></br>
+          His graphic yet naïve-looking paintings, conjure places both historical and imagined,
+          taking us on a fragmented journey through forested landscapes, vernacular architecture,
+          and archaic towers. The intimacy and execution of these paintings convey themes of silence
+          and solitude.
+          <br></br>
+          <br></br>
+          His influences include Northern Renaissance painting, Folk Art, the Romantic landscapes of
+          Caspar David Friedrich and the paintings of Alfred Wallis. He also takes inspiration from
+          the novels of Hermann Hesse and W.G. Sebald.
+          <br></br>
+          <br></br>
+          Gee has sold his work to clients such as Paul Smith and Liberty London as well as showing
+          at Paris fashion week in 2019 in collaboration with menswear brand UNIFORME-Paris. His
+          work is also held in private collections around the world.  <br></br>
+        </p>
+
         <h1 className="about-quote">
           <br></br>
           <br></br>
@@ -165,34 +197,6 @@ const InfoPage = props => {
           <br></br>
           <span className="about-blurb">Autumn 2007</span>
           <br></br>
-          <br></br> 
-        </h1>
-        <h1 className="about-blurb">
-          <br></br>
-          <br></br>Christopher Gee is a British artist born in Portsmouth, England in 1987. He lives
-          and works on the Thames Estuary, Essex. His small scale works on paper explore stillness
-          and isolated scenes. His paintings are informed by historic houses and landmarks, often
-          forgotten or overlooked sites of familiarity and intrigue. Walking and collecting are key
-          to his practice.
-          <br></br>
-          <br></br>
-          His graphic yet naïve-looking paintings, conjure places both historical and imagined,
-          taking us on a fragmented journey through forested landscapes, vernacular architecture,
-          and archaic towers. The intimacy and execution of these paintings convey themes of silence
-          and solitude.
-          <br></br>
-          <br></br>
-          His influences include Northern Renaissance painting, Folk Art, the Romantic landscapes of
-          Caspar David Friedrich and the paintings of Alfred Wallis. He also takes inspiration from
-          the novels of Hermann Hesse and W.G. Sebald.
-          <br></br>
-          <br></br>
-          Gee has sold his work to clients such as Paul Smith and Liberty London as well as showing
-          at Paris fashion week in 2019 in collaboration with menswear brand UNIFORME-Paris. His
-          work is also held in private collections around the world.
-          <br></br>
-          <br></br> <br></br>
-          <br></br> <br></br>
           <br></br> 
         </h1>
       </Container>
