@@ -66,10 +66,6 @@ position: fixed;
     top: 0;
     right: 0;
 }
-  
-  position: -webkit-sticky;
-  margin-top: 6%;
-    margin-right: 4%;
 
   & svg {
     display: block;
