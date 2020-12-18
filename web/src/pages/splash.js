@@ -12,7 +12,8 @@ export default function Info() {
           marginRight: 'auto',
           height: '100vh',
           display: 'flex',
-          alignItems: 'center'
+          alignItems: 'center',
+    background: 'black'
         }}
       >
         <div>
