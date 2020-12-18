@@ -62,7 +62,10 @@ body {
   padding: calc(14 / 17 / 2 * 1rem);
   outline: none;
   color: inherit;
-
+position: fixed;
+    top: 0;
+    right: 0;
+}
   
   position: -webkit-sticky;
   margin-top: 6%;
