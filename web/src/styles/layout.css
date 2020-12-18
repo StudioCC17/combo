@@ -8,6 +8,11 @@ html {
   background: black
 }
 
+::selection {
+    background: #ffffff;
+    color: black;
+}
+
 
 
 @keyframes fadein {
