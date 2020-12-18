@@ -8,17 +8,13 @@ html {
   background: black
 }
 
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-}
+
 
 @keyframes fadein {
   0% {
     opacity: 0;
   }
-  50% {
+  30% {
     opacity: 0;
   }
   100% {
