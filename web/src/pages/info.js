@@ -43,8 +43,6 @@ const InfoPage = props => {
         <p className="info-blur"
           style={{
             width: '50%',
-            background: 'black',
-            zIndex: '999999',
             marginTop: '100px'
           }}
         >
