@@ -33,9 +33,10 @@ body {
   font-size: calc(20 / var(--base-unit) * 1rem);
   -webkit-font-smoothing: antialiased;
   font-style: italic;
-      position: sticky;
-    margin-top: 6%;
-    margin-left: 4%;
+    
+       position: fixed;
+    top: 3.5%;
+    left: 4%;
   float: left;
 
   
