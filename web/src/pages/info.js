@@ -6,7 +6,7 @@ const InfoPage = props => {
   return (
     <Layout>
       <Container>
-        <p
+        <p  className="about-quote"
           style={{
             width: '50%',
             background: 'black',
