@@ -71,7 +71,7 @@ h1.book-title {
 
 span.dimscross {
   /* position: absolute; */
-  width: 10px;
+  width: 9px;
   display: inline-block;
   margin: 0 0.25em;
 }
