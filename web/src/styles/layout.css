@@ -8,6 +8,10 @@ html {
   background: black
 }
 
+a {
+    color: white;
+  text-decoration: none;}
+
 ::selection {
     background: #ffffff;
     color: black;
