@@ -28,7 +28,7 @@ function Notebook(props) {
       <Container>
         <div className={styles.grid}>
           <div className={styles.mainContent}>
-            <h1 className={styles.title}>{title}</h1>
+           
           </div>
         </div>
       </Container>
