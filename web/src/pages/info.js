@@ -37,7 +37,7 @@ const InfoPage = props => {
           at Paris fashion week in 2019 in collaboration with menswear brand UNIFORME-Paris. His
           work is also held in private collections around the world.  <br></br>
     <br></br>
-          <span className="about-blurb">Design and development by <a href="https://ccseventeen.com/" target="_blank" ><i>Studio CC-17</i></a></span>
+          <span className="about-blurb">Design and development by <a href="https://ccseventeen.com/" target="_blank" >Studio CC-17</a></span>
         </p>
 
         <h1 className="about-quote">
