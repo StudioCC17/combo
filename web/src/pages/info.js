@@ -36,7 +36,7 @@ const InfoPage = props => {
           Gee has sold his work to clients such as Paul Smith and Liberty London as well as showing
           at Paris fashion week in 2019 in collaboration with menswear brand <a href="https://www.uniforme-paris.com/" target="_blank">UNIFORME-Paris</a>. His
           work is also held in private collections around the world.  <br></br>
-    <br></br></br>
+    <br></br>
           <span className="about-blurb">Site design and development by <a href="https://ccseventeen.com/" target="_blank">Studio CC-17</a></span>
         </p>
 
