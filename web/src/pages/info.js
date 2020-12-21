@@ -6,7 +6,17 @@ const InfoPage = props => {
   return (
     <Layout>
       <Container>
-        <p  className="about-quote"
+        <p>
+            <i>
+              Elsewhere, in the quiet provinces the artist can easily find himself surrounded by
+              melancholias. Lost in thought he sits at the secluded windows of his medieval digs, a
+              strange twilight flowing all about him, and without so much as stirring he sends his
+              daydreams out onto the sweeping landscape. No one comes. Nothing disturbs his reverie.
+              An inexpressible silence rules the surrounds.
+         </i>
+          </p>
+          <p style={{ fontSize: '1.3vw' }}>Robert Walsner</p>
+    <p  className="about-quote"
           style={{
             width: '50%',
             background: 'black',
