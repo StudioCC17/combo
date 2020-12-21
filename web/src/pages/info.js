@@ -6,7 +6,10 @@ const InfoPage = props => {
   return (
     <Layout>
       <Container>
-        <p>
+        <p style={{
+            width: '60%',
+            marginTop: '100px'
+          }}>
             <i>
               Elsewhere, in the quiet provinces the artist can easily find himself surrounded by
               melancholias. Lost in thought he sits at the secluded windows of his medieval digs, a
