@@ -8,7 +8,7 @@ const InfoPage = props => {
       <Container>
         <p style={{
             width: '60%',
-            marginTop: '100px'
+            marginTop: '150px'
           }}>
             <i>
               Elsewhere, in the quiet provinces the artist can easily find himself surrounded by
@@ -24,7 +24,7 @@ const InfoPage = props => {
             width: '50%',
             background: 'black',
             zIndex: '999999',
-            marginTop: '100px'
+            marginTop: '30px'
           }}
         >
           <br></br>
